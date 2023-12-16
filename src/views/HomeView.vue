@@ -42,7 +42,7 @@
             <TravelCards
               location="Tokyo, Japan"
               date="September 2019"
-              imageSrc="https://media.cntraveler.com/photos/63482b255e7943ad4006df0b/16:9/w_2560%2Cc_limit/tokyoGettyImages-1031467664.jpeg"
+              imageSrc="../images/TokyoHeader.jpg"
             />
           </RouterLink>
         </div>
